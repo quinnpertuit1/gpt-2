@@ -1,5 +1,5 @@
 
-[**Jupyter Notebook with 345M parameter for running on Colab**"](https://colab.research.google.com/github/2014Alexander/gpt-2/blob/master/Gpt_2_345M_Cyberpunk.ipynb)
+[**Jupyter Notebook with 345M parameter for running on Colab**](https://colab.research.google.com/github/2014Alexander/gpt-2/blob/master/Gpt_2_345M_Cyberpunk.ipynb)
 
 # gpt-2
 
